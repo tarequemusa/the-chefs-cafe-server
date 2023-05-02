@@ -1,11 +1,12 @@
 [
     {
         "id": 1,
-        "picture": "https://example.com/chef1-picture.jpg",
-        "name": "Maria Rodriguez",
-        "years_of_experience": 15,
-        "num_recipes": 75,
-        "likes": 12000,
+        "picture": "https://i.ibb.co/wdqTWqH/Giuseppe-Rossi.png",
+        "name": "Giuseppe Rossi",
+        "area_of_expertise": "Sicilian cuisine",
+        "years_of_experience": 20,
+        "num_recipes": 100,
+        "likes": 15000,
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef1-recipes"
@@ -13,11 +14,12 @@
     },
     {
         "id": 2,
-        "picture": "https://example.com/chef2-picture.jpg",
-        "name": "David Lee",
-        "years_of_experience": 20,
-        "num_recipes": 90,
-        "likes": 15000,
+        "picture": "https://i.ibb.co/tZCFCsp/Francesca-Bianchi.png",
+        "name": "Francesca Bianchi",
+        "area_of_expertise": "Roman cuisine",
+        "years_of_experience": 15,
+        "num_recipes": 80,
+        "likes": 12000,
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef2-recipes"
@@ -25,11 +27,12 @@
     },
     {
         "id": 3,
-        "picture": "https://example.com/chef3-picture.jpg",
-        "name": "Sophie Chen",
-        "years_of_experience": 12,
-        "num_recipes": 60,
-        "likes": 9000,
+        "picture": "https://i.ibb.co/njdMQtz/Antonio-Moretti.png",
+        "name": "Antonio Moretti",
+        "area_of_expertise": "Neapolitan cuisine",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": 8000,
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef3-recipes"
@@ -37,11 +40,12 @@
     },
     {
         "id": 4,
-        "picture": "https://example.com/chef4-picture.jpg",
-        "name": "Maxime Dubois",
-        "years_of_experience": 8,
-        "num_recipes": 45,
-        "likes": 5000,
+        "picture": "https://i.ibb.co/Hp0x29b/Giovanni-Bianchi.png",
+        "name": "Giovanni Bianchi",
+        "area_of_expertise": "Tuscan cuisine",
+        "years_of_experience": 18,
+        "num_recipes": 90,
+        "likes": 13000,
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef4-recipes"
@@ -49,14 +53,28 @@
     },
     {
         "id": 5,
-        "picture": "https://example.com/chef5-picture.jpg",
-        "name": "Yuki Yamamoto",
-        "years_of_experience": 18,
-        "num_recipes": 80,
-        "likes": 11000,
+        "picture": "https://i.ibb.co/QfQ8xsq/Lucia-Ricci.png",
+        "name": "Lucia Ricci",
+        "area_of_expertise": "Piedmontese cuisine",
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "likes": 9000,
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef5-recipes"
+        }
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/g3xY3B2/Marco-Rossi.png",
+        "name": "Marco Rossi",
+        "area_of_expertise": "Venetian cuisine",
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 5000,
+        "view_recipe_button": {
+            "text": "View Recipes",
+            "url": "https://example.com/chef6-recipes"
         }
     }
 ]

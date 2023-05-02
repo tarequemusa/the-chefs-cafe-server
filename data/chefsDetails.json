@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "picture": "https://example.com/chef1-picture.jpg",
+        "name": "Maria Rodriguez",
+        "years_of_experience": 15,
+        "num_recipes": 75,
+        "likes": 12000,
+        "view_recipe_button": {
+            "text": "View Recipes",
+            "url": "https://example.com/chef1-recipes"
+        }
+    },
+    {
+        "id": 2,
+        "picture": "https://example.com/chef2-picture.jpg",
+        "name": "David Lee",
+        "years_of_experience": 20,
+        "num_recipes": 90,
+        "likes": 15000,
+        "view_recipe_button": {
+            "text": "View Recipes",
+            "url": "https://example.com/chef2-recipes"
+        }
+    },
+    {
+        "id": 3,
+        "picture": "https://example.com/chef3-picture.jpg",
+        "name": "Sophie Chen",
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "likes": 9000,
+        "view_recipe_button": {
+            "text": "View Recipes",
+            "url": "https://example.com/chef3-recipes"
+        }
+    },
+    {
+        "id": 4,
+        "picture": "https://example.com/chef4-picture.jpg",
+        "name": "Maxime Dubois",
+        "years_of_experience": 8,
+        "num_recipes": 45,
+        "likes": 5000,
+        "view_recipe_button": {
+            "text": "View Recipes",
+            "url": "https://example.com/chef4-recipes"
+        }
+    },
+    {
+        "id": 5,
+        "picture": "https://example.com/chef5-picture.jpg",
+        "name": "Yuki Yamamoto",
+        "years_of_experience": 18,
+        "num_recipes": 80,
+        "likes": 11000,
+        "view_recipe_button": {
+            "text": "View Recipes",
+            "url": "https://example.com/chef5-recipes"
+        }
+    }
+]

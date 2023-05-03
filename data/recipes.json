@@ -1,7 +1,7 @@
 [
     {
-        "id": 771,
-        "banner": "https://example.com/images/recipe1.jpg",
+        "recipe_id": 771,
+        "banner": "https://i.ibb.co/6DB6v5f/chefs-banner.jpg",
         "recipe_name": "Spaghetti Carbonara",
         "ingredients": [
             "1 pound spaghetti",
@@ -16,8 +16,8 @@
         "favorite": false
     },
     {
-        "id": 772,
-        "banner": "https://example.com/images/recipe2.jpg",
+        "recipe_id": 772,
+        "banner": "https://i.ibb.co/6DB6v5f/chefs-banner.jpg",
         "recipe_name": "Margherita Pizza",
         "ingredients": [
             "1 pound pizza dough",
@@ -31,8 +31,8 @@
         "favorite": true
     },
     {
-        "id": 773,
-        "banner": "https://example.com/images/recipe3.jpg",
+        "recipe_id": 773,
+        "banner": "https://i.ibb.co/6DB6v5f/chefs-banner.jpg",
         "recipe_name": "Chicken Parmesan",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
@@ -48,8 +48,8 @@
         "favorite": false
     },
     {
-        "id": 774,
-        "banner": "https://example.com/images/recipe7.jpg",
+        "recipe_id": 774,
+        "banner": "https://i.ibb.co/6DB6v5f/chefs-banner.jpg",
         "recipe_name": "Risotto alla Milanese",
         "ingredients": [
             "2 cups Arborio rice",
@@ -67,8 +67,8 @@
         "favorite": true
     },
     {
-        "id": 775,
-        "banner": "https://example.com/images/recipe8.jpg",
+        "recipe_id": 775,
+        "banner": "https://i.ibb.co/6DB6v5f/chefs-banner.jpg",
         "recipe_name": "Tiramisu",
         "ingredients": [
             "6 egg yolks",
@@ -87,8 +87,8 @@
         "favorite": true
     },
     {
-        "id": 776,
-        "banner": "https://example.com/images/recipe9.jpg",
+        "recipe_id": 776,
+        "banner": "https://i.ibb.co/6DB6v5f/chefs-banner.jpg",
         "recipe_name": "Bruschetta",
         "ingredients": [
             "1 baguette, sliced",

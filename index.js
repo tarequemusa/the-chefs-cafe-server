@@ -2,7 +2,9 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 5000;
 
-const chefsDetails = require('./data/chefsDetails.json')
+const chefsDetails = require('./data/chefsDetails.json');
+const chefRecipe = require('./data/recipes.json');
+
 
 app.get('/', (req, res) => {
     res.send('The Chefs Cafe Server is Running')
@@ -10,6 +12,9 @@ app.get('/', (req, res) => {
 
 app.get('/chefsdetails', (req, res) => {
     res.send(chefsDetails);
+})
+app.get('/recipes', (req, res) => {
+    res.send(chefRecipe);
 })
 
 app.get('/chefsdetails/:id', (req, res) => {

@@ -1,77 +1,83 @@
 [
     {
-        "id": 1,
+        "id": 122,
         "picture": "https://i.ibb.co/wdqTWqH/Giuseppe-Rossi.png",
         "name": "Giuseppe Rossi",
         "area_of_expertise": "Sicilian cuisine",
         "years_of_experience": 20,
         "num_recipes": 100,
         "likes": 15000,
+        "recipe_id": 771,
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef1-recipes"
         }
     },
     {
-        "id": 2,
+        "id": 222,
         "picture": "https://i.ibb.co/tZCFCsp/Francesca-Bianchi.png",
         "name": "Francesca Bianchi",
         "area_of_expertise": "Roman cuisine",
         "years_of_experience": 15,
         "num_recipes": 80,
         "likes": 12000,
+        "recipe_id": 772,
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef2-recipes"
         }
     },
     {
-        "id": 3,
+        "id": 322,
         "picture": "https://i.ibb.co/njdMQtz/Antonio-Moretti.png",
         "name": "Antonio Moretti",
         "area_of_expertise": "Neapolitan cuisine",
         "years_of_experience": 10,
         "num_recipes": 50,
         "likes": 8000,
+        "recipe_id": 773,
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef3-recipes"
         }
     },
     {
-        "id": 4,
+        "id": 422,
         "picture": "https://i.ibb.co/Hp0x29b/Giovanni-Bianchi.png",
         "name": "Giovanni Bianchi",
         "area_of_expertise": "Tuscan cuisine",
         "years_of_experience": 18,
         "num_recipes": 90,
         "likes": 13000,
+        "recipe_id": 774,
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef4-recipes"
         }
     },
     {
-        "id": 5,
+        "id": 522,
         "picture": "https://i.ibb.co/QfQ8xsq/Lucia-Ricci.png",
         "name": "Lucia Ricci",
         "area_of_expertise": "Piedmontese cuisine",
         "years_of_experience": 12,
         "num_recipes": 60,
         "likes": 9000,
+        "recipe_id": 775,
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef5-recipes"
         }
     },
     {
-        "id": 6,
+        "id": 622,
         "picture": "https://i.ibb.co/g3xY3B2/Marco-Rossi.png",
         "name": "Marco Rossi",
         "area_of_expertise": "Venetian cuisine",
         "years_of_experience": 8,
         "num_recipes": 40,
         "likes": 5000,
+        "recipe_id": 776,
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef6-recipes"

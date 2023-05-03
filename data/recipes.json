@@ -1,0 +1,106 @@
+[
+    {
+        "id": 771,
+        "banner": "https://example.com/images/recipe1.jpg",
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+            "1 pound spaghetti",
+            "6 ounces pancetta",
+            "4 eggs",
+            "1 cup grated Parmesan cheese",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper"
+        ],
+        "cooking_method": "Cook spaghetti according to package directions, fry pancetta in a pan, mix eggs, cheese, salt, and pepper in a bowl, add cooked spaghetti to the pan with pancetta and toss, then remove from heat and add egg mixture, stirring continuously until sauce thickens",
+        "rating": 4.5,
+        "favorite": false
+    },
+    {
+        "id": 772,
+        "banner": "https://example.com/images/recipe2.jpg",
+        "recipe_name": "Margherita Pizza",
+        "ingredients": [
+            "1 pound pizza dough",
+            "1/2 cup tomato sauce",
+            "8 ounces mozzarella cheese",
+            "1/4 cup fresh basil leaves",
+            "1 tablespoon olive oil"
+        ],
+        "cooking_method": "Preheat oven to 450°F, roll out pizza dough, spread tomato sauce evenly over the dough, sprinkle mozzarella cheese, top with fresh basil, and drizzle olive oil, bake in the preheated oven until the crust is golden and cheese is melted and bubbly",
+        "rating": 4.2,
+        "favorite": true
+    },
+    {
+        "id": 773,
+        "banner": "https://example.com/images/recipe3.jpg",
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1/2 cup all-purpose flour",
+            "2 eggs",
+            "1 cup seasoned bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper"
+        ],
+        "cooking_method": "Preheat oven to 400°F, season chicken with salt and pepper, coat with flour, dip in beaten eggs, mix bread crumbs and Parmesan cheese, coat chicken with bread crumb mixture, place chicken in a baking dish, bake in the preheated oven for 20-25 minutes or until chicken is cooked through",
+        "rating": 4.7,
+        "favorite": false
+    },
+    {
+        "id": 774,
+        "banner": "https://example.com/images/recipe7.jpg",
+        "recipe_name": "Risotto alla Milanese",
+        "ingredients": [
+            "2 cups Arborio rice",
+            "1/2 cup unsalted butter",
+            "1/2 cup grated Parmesan cheese",
+            "1/2 cup dry white wine",
+            "1 onion, finely chopped",
+            "6 cups chicken or vegetable broth",
+            "1 pinch saffron threads",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper"
+        ],
+        "cooking_method": "Melt butter in a large saucepan, add onion and sauté until translucent, add rice and stir to coat with butter, add white wine and cook until evaporated, add broth and saffron, bring to a boil, then reduce heat and simmer, stirring occasionally, until the rice is cooked and creamy, stir in Parmesan cheese, salt, and pepper",
+        "rating": 4.8,
+        "favorite": true
+    },
+    {
+        "id": 775,
+        "banner": "https://example.com/images/recipe8.jpg",
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+            "6 egg yolks",
+            "3/4 cup sugar",
+            "2/3 cup milk",
+            "1 1/4 cups heavy cream",
+            "1/2 teaspoon vanilla extract",
+            "1 pound mascarpone cheese",
+            "24 ladyfingers",
+            "1/2 cup brewed espresso or strong coffee",
+            "1/4 cup dark rum",
+            "1/4 cup cocoa powder"
+        ],
+        "cooking_method": "Beat egg yolks and sugar until thick and pale, heat milk in a saucepan, add egg mixture and cook over low heat, stirring constantly, until thick and creamy, remove from heat and let cool, beat heavy cream and vanilla until soft peaks form, fold in mascarpone cheese and egg mixture, dip ladyfingers in espresso and rum mixture, arrange in a single layer in a dish, spread half of the mascarpone mixture over the ladyfingers, repeat layers, dust with cocoa powder",
+        "rating": 4.9,
+        "favorite": true
+    },
+    {
+        "id": 776,
+        "banner": "https://example.com/images/recipe9.jpg",
+        "recipe_name": "Bruschetta",
+        "ingredients": [
+            "1 baguette, sliced",
+            "4-5 ripe tomatoes, chopped",
+            "1/4 cup fresh basil leaves, chopped",
+            "3 cloves garlic, minced",
+            "1/4 cup extra-virgin olive oil",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper"
+        ],
+        "cooking_method": "Preheat oven to 350°F, brush bread slices with olive oil, place on a baking sheet, bake in the preheated oven for 10-12 minutes or until lightly toasted, mix tomatoes, basil, garlic, olive oil, salt, and pepper in a bowl, spoon tomato mixture over toasted bread slices",
+        "rating": 4.6,
+        "favorite": false
+    }
+]

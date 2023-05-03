@@ -12,6 +12,13 @@ app.get('/chefsdetails', (req, res) => {
     res.send(chefsDetails);
 })
 
+app.get('/chefsdetails/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+    const selectedChef = chefsDetails.find(n => n.id === id);
+    res.send(selectedChef);
+})
+
 app.listen(port, () => {
     console.log('The Chefs Cafe API is running on port: ${port}');
 })

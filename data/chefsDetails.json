@@ -15,6 +15,15 @@
         },
         "all_recipes": [
             {
+                "picture": "https://i.ibb.co/wdqTWqH/Giuseppe-Rossi.png",
+                "name": "Massimo Bottura",
+                "short_bio": "Born in Modena, Italy, Bottura is a world-renowned chef and the owner of Osteria Francescana, which has been named the best restaurant in the world several times. He is known for his innovative approach to traditional Italian cuisine and his commitment to reducing food waste.",
+                "area_of_expertise": "Sicilian cuisine",
+                "years_of_experience": 20,
+                "num_recipes": 100,
+                "likes": 15000
+            },
+            {
                 "recipe_name": "Spaghetti Carbonara",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -72,11 +81,67 @@
         "years_of_experience": 15,
         "num_recipes": 80,
         "likes": 12000,
-        "recipe_id": 772,
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef2-recipes"
-        }
+        },
+        "all_recipes": [
+            {
+                "picture": "https://i.ibb.co/tZCFCsp/Francesca-Bianchi.png",
+                "name": "Lidia Bastianich",
+                "short_bio": "Bastianich is an Italian-American chef, restaurateur, and TV personality who has authored several cookbooks and hosted several cooking shows. She is known for her emphasis on simple, fresh ingredients and her traditional Italian recipes, which are inspired by her upbringing in Istria, a region of Italy that is now part of Croatia.",
+                "area_of_expertise": "Roman cuisine",
+                "years_of_experience": 15,
+                "num_recipes": 80,
+                "likes": 12000
+            },
+            {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "6 ounces pancetta",
+                    "4 eggs",
+                    "1 cup grated Parmesan cheese",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook spaghetti according to package directions, fry pancetta in a pan, mix eggs, cheese, salt, and pepper in a bowl, add cooked spaghetti to the pan with pancetta and toss, then remove from heat and add egg mixture, stirring continuously until sauce thickens",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1/2 pound pancetta or bacon, diced",
+                    "4 large egg yolks",
+                    "1/2 cup grated Pecorino Romano cheese",
+                    "1/2 cup grated Parmesan cheese",
+                    "3 cloves garlic, minced",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook spaghetti in a large pot of salted boiling water until al dente, reserve 1 cup of the pasta cooking water, drain the pasta, while the pasta is cooking, sauté pancetta or bacon in a large skillet over medium heat until crispy, remove from heat, whisk egg yolks, Pecorino Romano cheese, Parmesan cheese, garlic, salt, and pepper in a bowl, add 1/4 cup of the reserved pasta cooking water and whisk to combine, add the drained pasta to the skillet with the pancetta or bacon, toss to combine, pour the egg mixture over the pasta, tossing quickly to avoid scrambling the eggs, add more pasta water as needed to create a creamy sauce, serve immediately",
+                "rating": 4.7,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Pesto Pasta",
+                "ingredients": [
+                    "1 pound pasta",
+                    "2 cups fresh basil leaves",
+                    "1/2 cup pine nuts",
+                    "3 cloves garlic",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/2 cup extra-virgin olive oil",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook pasta in a large pot of salted boiling water, drain and reserve 1 cup of pasta water, place basil, pine nuts, garlic, Parmesan cheese, olive oil, salt, and pepper in a food processor, pulse until smooth, add pasta water if necessary to thin the pesto sauce, toss pasta with pesto sauce",
+                "rating": 4.7,
+                "favorite": false
+            }
+        ]
     },
     {
         "id": 322,
@@ -91,7 +156,64 @@
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef3-recipes"
-        }
+        },
+        "all_recipes": [
+            {
+                "picture": "https://i.ibb.co/njdMQtz/Antonio-Moretti.png",
+                "name": "Mario Batali",
+                "short_bio": "Batali is a chef, restaurateur, and TV personality who has authored several cookbooks and hosted several cooking shows. He is known for his emphasis on seasonal, local ingredients and his innovative approach to traditional Italian cuisine. Batali has also been an advocate for sustainable agriculture and has worked to promote the use of locally-sourced ingredients in his restaurants.",
+                "area_of_expertise": "Neapolitan cuisine",
+                "years_of_experience": 10,
+                "num_recipes": 50,
+                "likes": 8000
+            },
+            {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "6 ounces pancetta",
+                    "4 eggs",
+                    "1 cup grated Parmesan cheese",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook spaghetti according to package directions, fry pancetta in a pan, mix eggs, cheese, salt, and pepper in a bowl, add cooked spaghetti to the pan with pancetta and toss, then remove from heat and add egg mixture, stirring continuously until sauce thickens",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1/2 pound pancetta or bacon, diced",
+                    "4 large egg yolks",
+                    "1/2 cup grated Pecorino Romano cheese",
+                    "1/2 cup grated Parmesan cheese",
+                    "3 cloves garlic, minced",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook spaghetti in a large pot of salted boiling water until al dente, reserve 1 cup of the pasta cooking water, drain the pasta, while the pasta is cooking, sauté pancetta or bacon in a large skillet over medium heat until crispy, remove from heat, whisk egg yolks, Pecorino Romano cheese, Parmesan cheese, garlic, salt, and pepper in a bowl, add 1/4 cup of the reserved pasta cooking water and whisk to combine, add the drained pasta to the skillet with the pancetta or bacon, toss to combine, pour the egg mixture over the pasta, tossing quickly to avoid scrambling the eggs, add more pasta water as needed to create a creamy sauce, serve immediately",
+                "rating": 4.7,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Pesto Pasta",
+                "ingredients": [
+                    "1 pound pasta",
+                    "2 cups fresh basil leaves",
+                    "1/2 cup pine nuts",
+                    "3 cloves garlic",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/2 cup extra-virgin olive oil",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook pasta in a large pot of salted boiling water, drain and reserve 1 cup of pasta water, place basil, pine nuts, garlic, Parmesan cheese, olive oil, salt, and pepper in a food processor, pulse until smooth, add pasta water if necessary to thin the pesto sauce, toss pasta with pesto sauce",
+                "rating": 4.7,
+                "favorite": false
+            }
+        ]
     },
     {
         "id": 422,
@@ -106,7 +228,64 @@
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef4-recipes"
-        }
+        },
+        "all_recipes": [
+            {
+                "picture": "https://i.ibb.co/Hp0x29b/Giovanni-Bianchi.png",
+                "name": "Giada De Laurentiis",
+                "short_bio": "De Laurentiis is an Italian-American chef, author, and TV personality who is known for her emphasis on simple, healthy recipes that are inspired by her Italian heritage. She has authored several cookbooks and hosted several cooking shows, and has been an advocate for healthy eating and cooking with fresh, whole ingredients.",
+                "area_of_expertise": "Tuscan cuisine",
+                "years_of_experience": 18,
+                "num_recipes": 90,
+                "likes": 13000
+            },
+            {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "6 ounces pancetta",
+                    "4 eggs",
+                    "1 cup grated Parmesan cheese",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook spaghetti according to package directions, fry pancetta in a pan, mix eggs, cheese, salt, and pepper in a bowl, add cooked spaghetti to the pan with pancetta and toss, then remove from heat and add egg mixture, stirring continuously until sauce thickens",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1/2 pound pancetta or bacon, diced",
+                    "4 large egg yolks",
+                    "1/2 cup grated Pecorino Romano cheese",
+                    "1/2 cup grated Parmesan cheese",
+                    "3 cloves garlic, minced",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook spaghetti in a large pot of salted boiling water until al dente, reserve 1 cup of the pasta cooking water, drain the pasta, while the pasta is cooking, sauté pancetta or bacon in a large skillet over medium heat until crispy, remove from heat, whisk egg yolks, Pecorino Romano cheese, Parmesan cheese, garlic, salt, and pepper in a bowl, add 1/4 cup of the reserved pasta cooking water and whisk to combine, add the drained pasta to the skillet with the pancetta or bacon, toss to combine, pour the egg mixture over the pasta, tossing quickly to avoid scrambling the eggs, add more pasta water as needed to create a creamy sauce, serve immediately",
+                "rating": 4.7,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Pesto Pasta",
+                "ingredients": [
+                    "1 pound pasta",
+                    "2 cups fresh basil leaves",
+                    "1/2 cup pine nuts",
+                    "3 cloves garlic",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/2 cup extra-virgin olive oil",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook pasta in a large pot of salted boiling water, drain and reserve 1 cup of pasta water, place basil, pine nuts, garlic, Parmesan cheese, olive oil, salt, and pepper in a food processor, pulse until smooth, add pasta water if necessary to thin the pesto sauce, toss pasta with pesto sauce",
+                "rating": 4.7,
+                "favorite": false
+            }
+        ]
     },
     {
         "id": 522,
@@ -121,7 +300,64 @@
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef5-recipes"
-        }
+        },
+        "all_recipes": [
+            {
+                "picture": "https://i.ibb.co/QfQ8xsq/Lucia-Ricci.png",
+                "name": "Massimo Montanari",
+                "short_bio": "Montanari is an Italian food historian and professor who has written several books on the history of Italian cuisine. He is known for his expertise in traditional Italian recipes and his commitment to preserving the culinary heritage of Italy. Montanari has also been a critic of the modern food industry and has advocated for a return to traditional, local ingredients and cooking techniques.",
+                "area_of_expertise": "Piedmontese cuisine",
+                "years_of_experience": 12,
+                "num_recipes": 60,
+                "likes": 9000
+            },
+            {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "6 ounces pancetta",
+                    "4 eggs",
+                    "1 cup grated Parmesan cheese",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook spaghetti according to package directions, fry pancetta in a pan, mix eggs, cheese, salt, and pepper in a bowl, add cooked spaghetti to the pan with pancetta and toss, then remove from heat and add egg mixture, stirring continuously until sauce thickens",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1/2 pound pancetta or bacon, diced",
+                    "4 large egg yolks",
+                    "1/2 cup grated Pecorino Romano cheese",
+                    "1/2 cup grated Parmesan cheese",
+                    "3 cloves garlic, minced",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook spaghetti in a large pot of salted boiling water until al dente, reserve 1 cup of the pasta cooking water, drain the pasta, while the pasta is cooking, sauté pancetta or bacon in a large skillet over medium heat until crispy, remove from heat, whisk egg yolks, Pecorino Romano cheese, Parmesan cheese, garlic, salt, and pepper in a bowl, add 1/4 cup of the reserved pasta cooking water and whisk to combine, add the drained pasta to the skillet with the pancetta or bacon, toss to combine, pour the egg mixture over the pasta, tossing quickly to avoid scrambling the eggs, add more pasta water as needed to create a creamy sauce, serve immediately",
+                "rating": 4.7,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Pesto Pasta",
+                "ingredients": [
+                    "1 pound pasta",
+                    "2 cups fresh basil leaves",
+                    "1/2 cup pine nuts",
+                    "3 cloves garlic",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/2 cup extra-virgin olive oil",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook pasta in a large pot of salted boiling water, drain and reserve 1 cup of pasta water, place basil, pine nuts, garlic, Parmesan cheese, olive oil, salt, and pepper in a food processor, pulse until smooth, add pasta water if necessary to thin the pesto sauce, toss pasta with pesto sauce",
+                "rating": 4.7,
+                "favorite": false
+            }
+        ]
     },
     {
         "id": 622,
@@ -136,6 +372,63 @@
         "view_recipe_button": {
             "text": "View Recipes",
             "url": "https://example.com/chef6-recipes"
-        }
+        },
+        "all_recipes": [
+            {
+                "picture": "https://i.ibb.co/g3xY3B2/Marco-Rossi.png",
+                "name": "Gennaro Contaldo",
+                "short_bio": "Contaldo is an Italian chef, restaurateur, and TV personality who is known for his traditional Italian recipes and his emphasis on simple, fresh ingredients. He has authored several cookbooks and hosted several cooking shows, and has worked to promote the use of sustainable, locally-sourced ingredients in his restaurants. Contaldo is also known for his close friendship and collaboration with fellow chef Jamie Oliver.",
+                "area_of_expertise": "Venetian cuisine",
+                "years_of_experience": 8,
+                "num_recipes": 40,
+                "likes": 5000
+            },
+            {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "6 ounces pancetta",
+                    "4 eggs",
+                    "1 cup grated Parmesan cheese",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook spaghetti according to package directions, fry pancetta in a pan, mix eggs, cheese, salt, and pepper in a bowl, add cooked spaghetti to the pan with pancetta and toss, then remove from heat and add egg mixture, stirring continuously until sauce thickens",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1/2 pound pancetta or bacon, diced",
+                    "4 large egg yolks",
+                    "1/2 cup grated Pecorino Romano cheese",
+                    "1/2 cup grated Parmesan cheese",
+                    "3 cloves garlic, minced",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook spaghetti in a large pot of salted boiling water until al dente, reserve 1 cup of the pasta cooking water, drain the pasta, while the pasta is cooking, sauté pancetta or bacon in a large skillet over medium heat until crispy, remove from heat, whisk egg yolks, Pecorino Romano cheese, Parmesan cheese, garlic, salt, and pepper in a bowl, add 1/4 cup of the reserved pasta cooking water and whisk to combine, add the drained pasta to the skillet with the pancetta or bacon, toss to combine, pour the egg mixture over the pasta, tossing quickly to avoid scrambling the eggs, add more pasta water as needed to create a creamy sauce, serve immediately",
+                "rating": 4.7,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Pesto Pasta",
+                "ingredients": [
+                    "1 pound pasta",
+                    "2 cups fresh basil leaves",
+                    "1/2 cup pine nuts",
+                    "3 cloves garlic",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/2 cup extra-virgin olive oil",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "Cook pasta in a large pot of salted boiling water, drain and reserve 1 cup of pasta water, place basil, pine nuts, garlic, Parmesan cheese, olive oil, salt, and pepper in a food processor, pulse until smooth, add pasta water if necessary to thin the pesto sauce, toss pasta with pesto sauce",
+                "rating": 4.7,
+                "favorite": false
+            }
+        ]
     }
 ]

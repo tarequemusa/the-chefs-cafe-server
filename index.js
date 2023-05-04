@@ -17,12 +17,12 @@ app.get('/chefsdetails', (req, res) => {
     res.send(chefsDetails);
 })
 
-app.get('./data/chefsdetails/:id', (req, res) => {
-    const id = req.params.id;
-    console.log(id);
-    const selectedChef = chefsDetails.find(n => n.id === id);
-    res.send(selectedChef);
-})
+// app.get('/chefsdetails/:id', (req, res) => {
+//     const id = parseInt(req.params.id);
+//     console.log(id);
+//     const selectedChef = chefsDetails.filter(n => n.id == id);
+//     res.send(selectedChef);
+// })
 
 app.get('/recipes', (req, res) => {
     res.send(chefRecipe);
@@ -41,8 +41,8 @@ app.get('/chefsdetails/:id', (req, res) => {
         res.send(chefsDetails)
     }
     else {
-        const selectedChef = chefsDetails.filter(n => parseInt(n.id) === id);
-        res.send(selectedChef);
+        const selectedChef = chefsDetails.find(n => parseInt(n.id) === id);
+        res.send(selectedChef.all_recipes);
     }
     console.log(id);
 })

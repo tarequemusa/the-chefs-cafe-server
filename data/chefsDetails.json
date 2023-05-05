@@ -17,13 +17,11 @@
             {
                 "picture": "https://i.ibb.co/wdqTWqH/Giuseppe-Rossi.png",
                 "name": "Massimo Bottura",
-                "short_bio": "Born in Modena, Italy, Bottura is a world-renowned chef and the owner of Osteria Francescana, which has been named the best restaurant in the world several times. He is known for his innovative approach to traditional Italian cuisine and his commitment to reducing food waste.",
+                "short_bio": "Short BIO: Born in Modena, Italy, Bottura is a world-renowned chef and the owner of Osteria Francescana, which has been named the best restaurant in the world several times. He is known for his innovative approach to traditional Italian cuisine and his commitment to reducing food waste.",
                 "area_of_expertise": "Sicilian cuisine",
                 "years_of_experience": 20,
                 "num_recipes": 100,
-                "likes": 15000
-            },
-            {
+                "likes": 15000,
                 "recipe_name": "Spaghetti Carbonara",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -93,9 +91,7 @@
                 "area_of_expertise": "Roman cuisine",
                 "years_of_experience": 15,
                 "num_recipes": 80,
-                "likes": 12000
-            },
-            {
+                "likes": 12000,
                 "recipe_name": "Spaghetti Carbonara",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -165,9 +161,7 @@
                 "area_of_expertise": "Neapolitan cuisine",
                 "years_of_experience": 10,
                 "num_recipes": 50,
-                "likes": 8000
-            },
-            {
+                "likes": 8000,
                 "recipe_name": "Spaghetti Carbonara",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -237,9 +231,7 @@
                 "area_of_expertise": "Tuscan cuisine",
                 "years_of_experience": 18,
                 "num_recipes": 90,
-                "likes": 13000
-            },
-            {
+                "likes": 13000,
                 "recipe_name": "Spaghetti Carbonara",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -309,9 +301,7 @@
                 "area_of_expertise": "Piedmontese cuisine",
                 "years_of_experience": 12,
                 "num_recipes": 60,
-                "likes": 9000
-            },
-            {
+                "likes": 9000,
                 "recipe_name": "Spaghetti Carbonara",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -381,9 +371,7 @@
                 "area_of_expertise": "Venetian cuisine",
                 "years_of_experience": 8,
                 "num_recipes": 40,
-                "likes": 5000
-            },
-            {
+                "likes": 5000,
                 "recipe_name": "Spaghetti Carbonara",
                 "ingredients": [
                     "1 pound spaghetti",
